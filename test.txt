@@ -1,0 +1,42 @@
+sanek32812
+- Architecture Knowledge : SOLID Open-Closed Principle
+- Algorithms/Data Structures : Отличия между массивом и связным списком
+- Core Java Development : RuntimeException, проверяемые и непроверяемые исключения, Как работает try|catch|finally?
+- Java Multithreading : Монитор применительно к syncronized, Паттерн Синглтон в многопоточной среде
+- RESTful services and WebAPI : Как определить ресурсы в REST API? Contract First и Code First подходы к разработке
+
+
+Руслан
+- Code Standards/Code Review Process : YAGNI - Version Control System : git rebase, git stash, git reset, git revert - Java Multithreading : CAS - JDBC : транзакционность, управление сессиями
+
+Алексей
+- Java Multithreading : изучить Semaphore
+- Hibernate : состояние сущности Transient 
+- SQL Databases : различие кластерных и некластерные индексы
+
+Andrey
+- Core Java Development : Stream API, Рефлексия
+- Java Multithreading : Синхронизаторы, Атомики
+- Hibernate : Стратегии наследования
+- RESTful services and WebAPI : Коды http ответов
+
+Anastasia
+вот мой фидбек:- Algorithms/Data Structures : структуры данных (надо было сказать, что бывают, связанные списки, массивы, ассоциативные массивы и т.д., а в Java есть такая-то их реализация, а не просто сразу про варианты в Java)
+- Core Java Development : Что можно изменить при @Override метода? Иммутабельный объект (долго обсуждали, в результате рассуждений оказалось недостаточно:) тут же долго гонял по мапам, шарил экран с кодом, где то в значениях что-то менял на null, то просто пытался null в мапу добавить с вопросов, а что будет, если вот так:) )
+-RESTful services and WebAPI : принципы REST (вспомнила только четыре сходу, этого мало( )
+
+Анастасия
+- Version Control System : fetch
+- Core Java Development : static, дефолтные реализации equals и hashCode
+- Java Multithreading : CountDownLatch, СyclicBarier
+- Hibernate : жизненный цикл сущности
+- SQL Databases : DISTINCT
+
+Евгений
+- Algorithms/Data Structures : множество, стек
+- Version Control System : merge vs rebase, stage
+- Core Java Development : interface<Collection>, добавление элемента в HashMap
+- Java Multithreading : создание потока, runnable, volitile
+- Spring Core : spring AOP
+- SQL Databases : агрегатные функции
+- Build Tools : maven lifecycle stages
